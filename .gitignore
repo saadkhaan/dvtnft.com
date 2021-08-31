@@ -1,6 +1,7 @@
 mail/
-.vscode/
-sass/
+.vscode
+sass
+*.sass-cache
 
 # dependencies
-node_modules
+node_modules/
