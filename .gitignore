@@ -1,4 +1,6 @@
 mail/
-node_modules/
 .vscode/
 sass/
+
+# dependencies
+node_modules
